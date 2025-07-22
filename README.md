@@ -26,13 +26,14 @@ git clone https://github.com/ ваш-username/breast-cancer-classification.git
 cd breast-cancer-classification
 ```
 2. Установите необходимые зависимости:
-```pip install pandas numpy seaborn scikit-learn jupyter```
+```
+pip install pandas numpy seaborn scikit-learn jupyter
+```
 
-3. Запустите Jupyter Notebook:
-```jupyter notebook```
-
-
-4. **Откройте файл `main.ipynb` и выполните ячейки последовательно.**
+4. Запустите Jupyter Notebook:
+```
+jupyter notebook
+```
 
 ## Основные шаги в проекте
 
